@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mucyuneje</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-stack & AI Dev | 🧠 Node.js, Python, Next.js, MySQL | ⚙️ Building SaaS apps & smart trading tools | 🎨 UI/UX lover | 🤖 I make code talk and charts make se</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucyuneje&label=Profile%20views&color=0e75b6&style=flat" alt="mucyuneje" /> </p>
 
